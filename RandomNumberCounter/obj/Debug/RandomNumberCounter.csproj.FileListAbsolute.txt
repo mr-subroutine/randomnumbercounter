@@ -1,0 +1,9 @@
+C:\Users\gamef\source\repos\RandomNumberCounter\RandomNumberCounter\obj\Debug\RandomNumberCounter.Form1.resources
+C:\Users\gamef\source\repos\RandomNumberCounter\RandomNumberCounter\obj\Debug\RandomNumberCounter.Properties.Resources.resources
+C:\Users\gamef\source\repos\RandomNumberCounter\RandomNumberCounter\obj\Debug\RandomNumberCounter.csproj.GenerateResource.cache
+C:\Users\gamef\source\repos\RandomNumberCounter\RandomNumberCounter\obj\Debug\RandomNumberCounter.csproj.CoreCompileInputs.cache
+C:\Users\gamef\source\repos\RandomNumberCounter\RandomNumberCounter\bin\Debug\RandomNumberCounter.exe.config
+C:\Users\gamef\source\repos\RandomNumberCounter\RandomNumberCounter\bin\Debug\RandomNumberCounter.exe
+C:\Users\gamef\source\repos\RandomNumberCounter\RandomNumberCounter\bin\Debug\RandomNumberCounter.pdb
+C:\Users\gamef\source\repos\RandomNumberCounter\RandomNumberCounter\obj\Debug\RandomNumberCounter.exe
+C:\Users\gamef\source\repos\RandomNumberCounter\RandomNumberCounter\obj\Debug\RandomNumberCounter.pdb
