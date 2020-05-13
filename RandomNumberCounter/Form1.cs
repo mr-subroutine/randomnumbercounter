@@ -29,7 +29,10 @@ namespace RandomNumberCounter
 
             while (randomCount < 101)
             {
+                // gets random number
                 randomStorage = myRand.Next(1, 101);
+
+                //stores random number in array of same value and increments index when hit + 1
                 myArray[randomStorage] = myArray[randomStorage] + 1;
                 randomCount++;
             }
@@ -38,6 +41,7 @@ namespace RandomNumberCounter
             {
                 if (myArray[i] != 0)
                 {
+                    // sets text box with values once random numbers filled array in above while loop
                     textBox1.Text += i + "\t" + "\t" + myArray[i].ToString() + Environment.NewLine;
                 }
                 i++;
